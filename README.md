@@ -6,6 +6,9 @@ I've used Python's famous libraries like [Pandas](https://pandas.pydata.org/), [
 
 I've used the Boston house prediction dataset. This [dataset](https://github.com/Anuragtsl/ML-Regularized_Linear_Regression_Models/blob/main/Dataset.txt) is present in the datasets module of sklearn (scikit-learn) library.
 
+You can use **[Jupyter Notebook](https://jupyter.org/)** or **[Google Colab](https://colab.research.google.com/)** for Coding!
+
+
 # What is Regularization
 
 In regression analysis, the features are estimated using coefficients while modelling. 
@@ -38,6 +41,8 @@ From the above analysis we can reach the following conclusion about different re
  
   * **Elastic Net is a combination of both of the above regularization. It contains both the L1 and L2 as its penalty term. It performs better than Ridge and Lasso Regression for       most of the test cases.**
 
+
+***Follow along my [jupyter-notebook](https://github.com/Anuragtsl/ML-Regularized_Linear_Regression_Models/blob/main/Regularized%20Linear%20Regression%20Models.ipynb) for more!!***
 
 # Preview
 
