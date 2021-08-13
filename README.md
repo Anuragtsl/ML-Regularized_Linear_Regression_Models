@@ -2,7 +2,7 @@
 
 In this Project, I have done implementation of different regularization techniques.
 
-I've used Python's famous libraries like [Pandas](), [Numpy](), [Matplotlib](), [Sklearn](), etc. for analysis and model development.
+I've used Python's famous libraries like [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Sklearn](https://scikit-learn.org/), etc. for analysis and model development.
 
 I've used the Boston house prediction dataset. This [dataset](https://github.com/Anuragtsl/ML-Regularized_Linear_Regression_Models/blob/main/Dataset.txt) is present in the datasets module of sklearn (scikit-learn) library.
 
@@ -41,9 +41,9 @@ From the above analysis we can reach the following conclusion about different re
 
 # Preview
 
-![Image1](https://github.com/Anuragtsl/ML-Regularized_Linear_Regression_Models/blob/main/Images/1.png)
-
 ![Image2](https://github.com/Anuragtsl/ML-Regularized_Linear_Regression_Models/blob/main/Images/2.png)
+
+![Image1](https://github.com/Anuragtsl/ML-Regularized_Linear_Regression_Models/blob/main/Images/1.png)
 
 ![Image3](https://github.com/Anuragtsl/ML-Regularized_Linear_Regression_Models/blob/main/Images/3.png)
 
